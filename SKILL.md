@@ -1,6 +1,6 @@
 ---
 name: auto-documentador-tech
-description: Genera documentación técnica formal en LaTeX a partir de lo que el usuario pida documentar: resumen del proyecto, nuevos requerimientos, diagramas de flujo, manuales, reportes, estimaciones, etc. Detecta el logo y la paleta de colores del proyecto y usa la fecha actual en la portada. Aplica buenas prácticas generales de formato y entrega las instrucciones de configuración del entorno de compilación. Úsala cuando el usuario pida crear o convertir documentación técnica en LaTeX, sin importar el stack del proyecto.
+description: "Genera documentación técnica formal en LaTeX a partir de lo que el usuario pida documentar: resumen del proyecto, nuevos requerimientos, diagramas de flujo, manuales, reportes, estimaciones, etc. Detecta el logo y la paleta de colores del proyecto y usa la fecha actual en la portada. Aplica buenas prácticas generales de formato y entrega las instrucciones de configuración del entorno de compilación. Úsala cuando el usuario pida crear o convertir documentación técnica en LaTeX, sin importar el stack del proyecto."
 ---
 
 # Auto-Documentador Tech
