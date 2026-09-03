@@ -1,0 +1,23 @@
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+*.run.xml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
